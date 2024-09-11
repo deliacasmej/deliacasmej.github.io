@@ -1,5 +1,3 @@
-# deliacasmej.github.io
-
 # Data Science, AI, and ML Graduate Student
 
 ### Education
