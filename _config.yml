@@ -2,5 +2,5 @@ title: Delia Castrejon
 #logo: /assets/img/headshot.png
 #description: text below image
 
-show_downloads:true
+show_downloads:false
 theme: jekyll-theme-minimal
