@@ -18,5 +18,3 @@ Programming Languages|Tools: Java, Python, R, MySQL, Quickbooks, Scikit-Learn, M
 
 Communication: Cross-Cultural Communication, Interpreting, and Translation, Policy Analysis, Interpersonal Communication, Public Speaking, Humanitarian Practice
 
-### CERTIFICATES
-________________________________________________________________________________________________
